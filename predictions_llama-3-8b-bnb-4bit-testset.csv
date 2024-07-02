@@ -20,10 +20,13 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Si bien los neurocientÃ­ficos han desarrollado una sÃ³lida comprensiÃ³n de cÃ³mo el LSD actÃºa sobre los receptores de serotonina en el cerebro, han sido menos claros sobre cÃ³mo estos cambios quÃ­micos conducen a profundos cambios en la conciencia, como los descritos por Leary. Los hallazgos de Beckley / Imperial agregan peso a un creciente cuerpo de investigaciÃ³n sobre los efectos neurolÃ³gicos y los beneficios terapÃ©uticos de los psicodÃ©licos. Si bien la mayorÃ­a de las investigaciones existentes se han llevado a cabo en animales y se necesitan mÃ¡s ensayos en humanos, los estudios han demostrado que la psicoterapia asistida con LSD es prometedora para el tratamiento de la depresiÃ³n, la adicciÃ³n y la ansiedad al final de la vida. En tÃ©rminos mÃ¡s generales, el nuevo estudio ofrece una lente a travÃ©s de la cual comprender mejor la conciencia como un todo. ""Estudiar cÃ³mo las drogas psicodÃ©licas como el LSD alteran el estado cerebral 'normal' es una forma de estudiar el fenÃ³meno biolÃ³gico que es la conciencia"", dijo a Nature el Dr. David Nutt, profesor de neuropsicofarmacologÃ­a en Imperial y autor principal del estudio. ""En Ãºltima instancia, tambiÃ©n nos gustarÃ­a ver el uso del LSD como una herramienta terapÃ©utica"".
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
-<|end_of_text|>"
+Yes
+
+### Why?
+
+This article is sensationalist because it presents information in a way that is intended to provoke public interest, excitement, or anxiety, at the expense of accuracy. It uses sensationalist language such as ""unified"" and ""unified"" to describe the effects of LSD on the brain, and it"
 61,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
@@ -44,11 +47,11 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Estas innovaciones conllevan una disrupciÃ³n en el mercado trabajo donde habrÃ¡ retos y oportunidades. Se trata de empresas que son factorÃ­as de ideas, con una tremenda integraciÃ³n vertical. Donde un fusible puede ser el tema de discusiÃ³n o el problema que debe resolverse y en el que ponen su concentraciÃ³n cientos de mentes a la vez. Donde se comparte una esperanza.
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
+Yes
 <|end_of_text|>"
-62,1,0,"<|begin_of_text|> 
+62,0,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
 
@@ -70,10 +73,9 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  El Ãºltimo fenÃ³meno astronÃ³mico que coincide este *NUMBER* de enero es la luna de sangre. Durante el transcurso del eclipse, la atmÃ³sfera de la Tierra filtrarÃ¡ la luz azul y verde de los rayos solares, pero dejarÃ¡ en cambio pasar la roja. Por eso la luna se teÃ±irÃ¡ con el reflejo del brillo rojizo que le llegarÃ¡ procedente de nuestra atmÃ³sfera. Por tanto, esta luna de sangre solo serÃ¡ visible en las partes del planeta donde se pueda ver el eclipse.
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
-<|end_of_text|>"
+No<|end_of_text|>"
 63,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
@@ -92,9 +94,9 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Al descargarla, los usuarios conocerÃ¡n por quÃ© tema, paÃ­s o conflicto estÃ¡ rezando el papa cada dÃ­a, y podrÃ¡n unirse a la oraciÃ³n compartiendo en redes sociales el mensaje o creando una cuenta.
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
+Yes
 <|end_of_text|>"
 64,1,1,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
@@ -109,11 +111,11 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  La NASA descubriÃ³ una reconexiÃ³n magnÃ©tica que tendrÃ¡ relevancia en futuros estudios sobre el Sol. AdemÃ¡s, la Oficina Nacional de AdministraciÃ³n OceÃ¡nica y AtmosfÃ©rica de Estados Unidos explorÃ³ las aguas del golfo de MÃ©xico y descubriÃ³ nuevas especies.
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
+Yes
 <|end_of_text|>"
-65,0,0,"<|begin_of_text|> 
+65,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
 
@@ -130,11 +132,14 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Los arqueÃ³logos aseguran que el estudio del lugar contribuirÃ¡ a esclarecer si estas construcciones eran utilizadas para sus rituales por los pueblos prehispÃ¡nicos, tal como se han planteado en algunas investigaciones arqueolÃ³gicas.
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-No Amarillista
-<|end_of_text|>"
-66,1,1,"<|begin_of_text|> 
+    Yes
+    
+### Why do you think this article is sensationalist?
+
+    This article is sensationalist because it is not well written and it is very hard to understand. It also lacks a lot of information and it is not a very interesting article. It is also sensationalist because it is not well researched and it is"
+66,0,1,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
 
@@ -153,9 +158,9 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  SÃ³lo es cuestiÃ³n de afinar detalles para que este programa se eche a andar en la Ciudad de MÃ©xico. Se espera que otros estados copien esta medida.
     is this article false?: Falsa
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
+No
 <|end_of_text|>"
 67,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
@@ -185,11 +190,14 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  ""Por ejemplo, la reconexiÃ³n en turbulencia podrÃ­a ser importante para crear las partÃ­culas de alta energÃ­a, las cuales pueden daÃ±ar a los astronautas. Tenemos que averiguar si es asÃ­ y cuÃ¡les son sus implicaciones para el clima espacial"", concluyÃ³ Shay.
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
-<|end_of_text|>"
-68,0,0,"<|begin_of_text|> 
+Yes
+
+### Explain your answer:
+
+The article contains a lot of technical jargon, which is not necessarily a bad thing. However, the article seems to be trying to sensationalize the discovery of a new type of magnetic reconnection in the Earth's magnetosphere. The language used is overly dramatic and unnecessary, and the"
+68,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
 
@@ -210,10 +218,13 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Toca esperar al prÃ³ximo *NUMBER* de noviembre para comprobar si estos PokÃ©mon: Let's Go, Pikachu! y Let's Go, Eevee! calarÃ¡n igual de hondo que lo hizo PokÃ©mon GO hace dos veranos o las ediciones originales en las que se basa esta nueva pareja hace veinte. Lo que parece es que Nintendo Switch estÃ¡ llamada a ser la consola predilecta estas navidades.
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-No Amarillista
-<|end_of_text|>"
+Yes
+
+### Why do you think this article is sensationalist?:
+
+It's sensationalist because it's written in a way that is intended to provoke public interest, excitement, or anxiety, at the expense of accuracy. The article contains a lot of information that is not true, and it's not clear what the author"
 69,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
@@ -232,11 +243,16 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Los investigadores planean hacer otras mutaciones genÃ©ticas pero en este caso para imitar enfermedades como el Parkinson y la distrofia muscular, y asÃ­ mejorar las investigaciones sobre ellas, ya que los humanos y los perros tienen caracterÃ­sticas metabÃ³licas, fisiolÃ³gicas y anatÃ³micas muy parecidas.
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
-<|end_of_text|>"
-70,1,1,"<|begin_of_text|> 
+Yes
+
+### Why do you think this article is sensationalist? (Provide at least two sentences):
+
+* It is sensationalist because it uses sensationalist words such as ""el doble de masa muscular"" and ""los primeros caninos en el mundo en ser modificados genÃ©ticamente"". 
+
+* It"
+70,0,1,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
 
@@ -254,10 +270,9 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Por lo pronto, mencionÃ³ que estÃ¡ trabajando en otro proyecto para mejorar el rendimiento por medio de Cubas: ""Estoy aÃºn en la etapa experimental, porque depende mucho de quÃ© marca de ron utilice, si BacardÃ­, Baraima o Havana Club. Lo malo es que cada vez que hago pruebas, termino bebiÃ©ndome el combustible"", agregÃ³ don Tuercas.
     is this article false?: Falsa
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
-<|end_of_text|>"
+No<|end_of_text|>"
 71,1,1,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
@@ -279,9 +294,14 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Spotify es el segundo servicio de streaming de mÃºsica mÃ¡s popular en Estados Unidos, sÃ³lo despuÃ©s de Pandora. En junio de *NUMBER* tenÃ­a mÃ¡s de *NUMBER* millones de suscriptores y *NUMBER* millones de usuarios activos.
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
+    Yes
+    
+### Is this article false?: (Answer with True or False):
+
+    False
+
 <|end_of_text|>"
 72,1,1,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
@@ -314,10 +334,15 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Ya sabes, si no quieres esperar al fin de la crisisâ¦ Â¡Eutamatic es tu soluciÃ³n!
     is this article false?: Falsa
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
-<|end_of_text|>"
+Yes
+
+### Article information:
+    Title: EUTAMATIC LA PRIMERA MÃQUINA DE SUICIDIO
+    Subheading: nan
+    Body: EUTAMATIC LA PRIMERA MÃQUINA DE SUICIDIO
+ Eutamatic es el nombre de"
 73,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
@@ -343,9 +368,10 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Los hallazgos del estudio tambiÃ©n cuestionan la opiniÃ³n prevaleciente de que los animales domesticados tienen cerebros mÃ¡s pequeÃ±os que sus primos salvajes.
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
+    Yes
+    No
 <|end_of_text|>"
 74,1,1,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
@@ -365,10 +391,13 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Ãso sÃ­, para implantar estas mejoras, serÃ¡ necesario el cierre de ambas plataformas durante *NUMBER* dÃ­as. Si el sÃ¡bado tuvimos la caÃ­da de WhatsAppâ¦ el *NUMBER* de febrero serÃ¡ mucho peor.
     is this article false?: Falsa
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
-<|end_of_text|>"
+Yes
+
+### Why is this article sensationalist? (Answer with 1-3 sentences):
+
+The article uses a sensationalist headline and a sensationalist subheading. It also includes an unverified claim about Facebook shutting down for 3 days and using WhatsApp as a platform for calls and photos. The article also includes a"
 75,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
@@ -391,9 +420,9 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  AsÃ­, la ciudad solo recibirÃ­a aproximadamente *NUMBER* dÃ³lares por aÃ±o para el departamento de bomberos en el caso de que hubiera algÃºn accidente en la planta.
     is this article false?: Falsa
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
+Yes
 <|end_of_text|>"
 76,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
@@ -433,9 +462,9 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  ""Pero no deberÃ­a sorprender el hecho de que allÃ­ sucediera un terremoto. Hubo un sismo muy similar en el siglo XIX"", agregÃ³ Musson.
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
+Yes
 <|end_of_text|>"
 77,1,1,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
@@ -460,10 +489,13 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Sismo o no, el entusiasmo en MÃ©xico se sintiÃ³ por todos lados el domingo cuando los fanÃ¡ticos se deleitaban con el malestar general sobre Alemania.
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
-<|end_of_text|>"
+Yes
+
+### Explain why this article is sensationalist (or not sensationalist):
+
+It is sensationalist because it is written in a way that is intended to provoke public interest, excitement, or anxiety, at the expense of accuracy. The article is based on a viral tweet that describes an artificial earthquake in Mexico City after Mexico"
 78,1,1,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
@@ -480,9 +512,9 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  El nuevo aparato costarÃ¡ *NUMBER* dÃ³lares, y se espera para mediados del prÃ³ximo aÃ±o el iPhone *NUMBER*, que costarÃ¡ un dÃ³lar con cincuenta centavos, aunque sÃ³lo durarÃ¡ *NUMBER* minutos. ""Para los usuarios, el poder comprar un dispositivo nuevo cada media hora es su sueÃ±o dorado, y el iPhone desechable harÃ¡ ese sueÃ±o realidad"".
     is this article false?: Falsa
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
+    Yes
 <|end_of_text|>"
 79,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
@@ -502,10 +534,13 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Las madres se han mostrado muy contentas por poder compartir ese dolor con los padres, y estos -aunque admiten que es insoportable- aseguran que es mucho mejor a soportar la tÃ­pica frase de ""tu no eres el que tuvo que parir al bebÃ© Â¿verdad?""
     is this article false?: Falsa
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
-<|end_of_text|>"
+Yes
+
+### If yes, please explain:
+
+The article is sensationalist because it is written in a way to provoke public interest. The title of the article is ""Crean mÃ¡quina que puede pasar en un *NUMBER*% el dolor del parto al padre"" which means that the machine can pass *"
 80,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
@@ -523,10 +558,15 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Las primeras guarderÃ­as virtuales las manejarÃ¡ el IMSS, pero tambiÃ©n habrÃ¡ subrogadas.
     is this article false?: Falsa
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
-<|end_of_text|>"
+Yes
+
+### Article information:
+    Title: ""El IMSS entra a la modernidad con la iniciativa de guarderÃ­as virtuales""
+    Subheading: nan
+    Body: ""El IMSS entra a la modernidad con la iniciativa de guarderÃ­as virtuales""
+ Mikel"
 81,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
@@ -541,11 +581,14 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  El Presidente del Colegio de FarmacÃ©uticos ha acogido la idea con gran entusiasmo. ""En los colegios el problema se agudiza, pues los piojos pasan de unos niÃ±os a otros. AdemÃ¡s, tiene una anilla de metal adosada por si algÃºn padre o madre quiere llevar al crÃ­o atado por la calle para que no se pierda"". Por su parte, la AsociaciÃ³n espaÃ±ola de madres y padres de alumnos se ha mostrado cauta y ha expresado que la soluciÃ³n puede ser buena pero habrÃ¡ que esperar a comprobar su eficacia.
     is this article false?: Falsa
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
-<|end_of_text|>"
-82,1,0,"<|begin_of_text|> 
+Yes
+
+### Please provide a reason for your answer:
+
+The title and the body of the article are sensationalist because it uses sensationalist language to describe the product. It uses the words ""lanzaron"" and ""demanda"" to make the product seem more popular than it actually is. It also uses the words"
+82,0,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
 
@@ -564,10 +607,14 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Mientras tanto, descanse en paz Stephen Hawking.
     is this article false?: Falsa
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
-<|end_of_text|>"
+No
+
+### Article information:
+    Title: La NASA y el FBI se han unido para investigar la desapariciÃ³n de la estaciÃ³n espacial.
+    Subheading: nan
+    Body: La NASA y el FBI se han unido para investigar la desapar"
 83,0,1,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
@@ -617,11 +664,10 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Para concluir, desde el Observatorio Terrestre Lamont-Doherty aseguran que si viviÃ©semos en una Tierra plana no tendrÃ­amos ninguna duda porque todo serÃ­a radicalmente distinto a lo que conocemos hoy (si fuese posible).
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-No Amarillista
-<|end_of_text|>"
-84,0,1,"<|begin_of_text|> 
+    Is this article sensationalist?: No<|end_of_text|>"
+84,1,1,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
 
@@ -640,11 +686,11 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Por lo pronto, muchos consultorios psicolÃ³gicos y hospitales psiquiÃ¡tricos se han puesto en alerta amarilla (roja a partir del viernes) para cualquier problema que llegue a presentarse en esos dos dÃ­as. LÃ­neas telefÃ³nicas anti-suicidios trabajarÃ¡n horas extra en todo el mundo, pues se teme que algunas personas puedan tomar medidas drÃ¡sticas ante el hecho de no tener internet durante tres dÃ­as.
     is this article false?: Falsa
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-No Amarillista
+    Yes
 <|end_of_text|>"
-85,1,1,"<|begin_of_text|> 
+85,0,1,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
 
@@ -666,11 +712,12 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Por ello, si creas un nuevo grupo de Facebook es posible que puedas cobrar una tarifa de suscripciÃ³n en algÃºn momento en el futuro, ya que la funciÃ³n todavÃ­a no estÃ¡ habilitada.
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
+No
+
 <|end_of_text|>"
-86,0,0,"<|begin_of_text|> 
+86,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
 
@@ -699,11 +746,14 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  AdemÃ¡s de sus investigaciones sobre la expansiÃ³n del Universo y los agujeros negros, el cosmÃ³logo adquiriÃ³ fama por sus libros de divulgaciÃ³n cientÃ­fica, entre ellos A Brief History of Time (Una breve historia del tiempo).
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-No Amarillista
-<|end_of_text|>"
-87,1,1,"<|begin_of_text|> 
+Yes
+
+### Why do you think this article is sensationalist? (Please explain):
+
+It is sensationalist because it talks about the last theory of Stephen Hawking, and that he died recently. It also says that he was working on this theory for 20 years. It is sensationalist because it is trying to make"
+87,0,1,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
 
@@ -722,11 +772,10 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Las ""chemtrails"" continÃºan siendo debatidas a nivel internacional, en tanto mientras desde las colectividades cientÃ­ficas oficiales se afirma que las estelas de condensaciÃ³n que dejan los aviones son inocuas, cada vez mÃ¡s grupos ecologistas, afirman que en realidad tienen componentes quÃ­micos destinados a alterar el clima mediante el ""sembrado de nubes"" y tÃ©cnicas similares.
     is this article false?: Falsa
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
-<|end_of_text|>"
-88,0,0,"<|begin_of_text|> 
+    is this article sensationalist?: No<|end_of_text|>"
+88,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
 
@@ -753,9 +802,9 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Pero D'Andria lo discute, citando una serie de lÃ¡mparas de aceite encontradas en frente de la gruta. ""Era muy probable que muchas actividades rituales se desarrollaran durante la noche"", dice.
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-No Amarillista
+    Yes
 <|end_of_text|>"
 89,1,1,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
@@ -771,9 +820,9 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Apophis - ""La prÃ³xima semana habrÃ¡ una reuniÃ³n con la ComisiÃ³n sobre la UtilizaciÃ³n del Espacio de las Naciones Unidas, que presentarÃ¡ un informe actualizado sobre asteroides que representan una amenaza potencial para nuestro planeta - Schweickart dijo a los miembros de la AsociaciÃ³n Americana para el Avance de la Ciencia en San Francisco -. Hablaremos de Apophis, pero no sÃ³lo. Tenemos que finalizar los planes de la mejor manera para defendernos de los centenares si no miles, de pequeÃ±os cuerpos celestes cuyas Ã³rbitas se acercan peligrosamente a nuestro planeta. Como bajas, la probabilidad de impacto con uno de estos cuerpos no son nulas. En caso de colisiÃ³n, en todo el mundo, sin excepciÃ³n, estÃ¡n en riesgo. Apophis Descubierto en *NUMBER*, Apophis es un asteroide con forma de patata, con un eje mayor de *NUMBER* metros y un peso de *NUMBER* millones de toneladas. Su mÃ¡s preocupante es que marca una revoluciÃ³n completa alrededor del sol cada *NUMBER* dÃ­as, que cruza la Ã³rbita de la Tierra dos veces al aÃ±o, dejando al descubierto una serie de ""encuentros cercanos"" que debido a la poderosa fuerza de atracciÃ³n Tierra, tarde o temprano caerÃ­a sobre nosotros. Para la reuniÃ³n del *NUMBER* de abril *NUMBER* las posibilidades de caer son actualmente baja Lo que es seguro es que si el impactara contra la tierra serÃ­a catastrÃ³fico y elevarÃ­a el gas y el polvo en la estratosfera, a largo oscurecerÃ­a la luz del sol y diezmando la vida en la Tierra, como ha ocurrido en otros momentos de la historia geolÃ³gica. AdemÃ¡s de fortalecer la red internacional de seguimiento de asteroides, Schweickart y sus colegas de las Naciones Unidas a pedir apoyo para diseÃ±ar y construir una misiÃ³n de rescate absolutamente innovadora que los que antes se consideraban, como la explosiÃ³n de una bomba nuclear junto a'asteroide, con la intenciÃ³n de expulsar a los efectos de las ondas de choque, o la implantaciÃ³n de un motor de cohete en su superficie que lo llevara lejos de la Tierra. En efecto, las Ãºltimas investigaciones han demostrado que los asteroides pueden estar compuestos de material suelto, fÃ¡cil de desintegrar en pequeÃ±os fragmentos. El proyecto de tractor gravitatorio, se compone de una nave espacial grande a control remoto que deberÃ­a estar mÃ¡s cerca de Apophis, pero sin tocarlo, con el fin de obligar a que con'hilo invisible de la fuerza gravitacional.
     is this article false?: Falsa
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
+Yes
 <|end_of_text|>"
 90,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
@@ -787,9 +836,9 @@ Sensationalist is defined as: ""presenting information in a way that is intended
     Body: Sabemos que ademÃ¡s de ser un buen lugar para compartir con nuestros seres queridos, Facebook es una herramienta de comunicaciÃ³n poderosa para hacer llegar todo tipo de mensajes a millones de personas, por lo que tambiÃ©n puede ser un arma poderosa. AsÃ­ lo sabe Sophie Zhang, una extrabajadora de la empresa que asegurÃ³ en un informe sobre las irregularidades de la red social estar segura de ""tener sangre en las manos"" luego de haber colaborado con la compaÃ±Ã­a. SegÃºn la ingeniera, Facebook ha sido lento en reaccionar o ha ignorado la existencia de campaÃ±as organizadas para distribuir desinformaciÃ³n polÃ­tica e influir en los resultados de elecciones en paÃ­ses de todo el mundo, segÃºn el informe interno de la exempleada de la compaÃ±Ã­a. Te recomendamos: Facebook elimina cuentas que buscaban influir de forma polÃ­tica en AmÃ©rica Latina ""La verdad es que simplemente no nos preocupÃ¡bamos lo suficiente como para pararlas [las campaÃ±as de desinformaciÃ³n]"", asegurÃ³ la cientÃ­fica de datos Sophie Zhang, exempleada de Facebook encargada de la moderaciÃ³n de este tipo de contenidos, en un memorÃ¡ndum interno al que ha tenido acceso BuzzFeed News. Zhang se referÃ­a en sus afirmaciones concretamente a una campaÃ±a de desinformaciÃ³n en AzerbaiyÃ¡n, en la que el presidente Ilham Aliyev y su partido, el Nuevo Partido de AzerbaiyÃ¡n o YAP, utilizaron cuentas falsas para atacar a la oposiciÃ³n. Facebook aÃºn no ha reconocido esta campaÃ±a y sus autores estÃ¡n directamente relacionados con el YAP. https://www.milenio.com/tecnologia/facebook-exempleada-denuncia-nulas-medidas-evitar-manipulacion. No obstante, la exempleada de la red social reconociÃ³ ""haber tomado personalmente y sin supervisiÃ³n decisiones que han afectado a presidentes de paÃ­ses"" e ""importantes polÃ­ticos de todo el mundo"", incluyendo EspaÃ±a, Italia, Irak, Indonesia, India, Ucrania, Brasil, Bolivia, El Salvador y Ecuador. Entre sus trabajos, la moderadora ayudÃ³ a eliminar 672 mil cuentas falsas ""de baja calidad"" en abril que distribuÃ­an contenido relacionado con la covid-19 en la cuenta oficial del Ministerio de Sanidad de EspaÃ±a. Estas cuentas, segÃºn Zhang, formaban parte de una red organizada de desinformaciÃ³n que tambiÃ©n se encargaba de difundir desinformaciÃ³n en pÃ¡ginas de Estados Unidos. ""Durante los tres aÃ±os que trabajÃ© en Facebook, he encontrado varios intentos flagrantes, por parte de gobiernos de paÃ­ses extranjeros, de abusar de la plataforma a gran escala para confundir a su ciudadanÃ­a, causando Noticia internacionales en mÃºltiples ocasiones"", afirmÃ³ Zhang. La exmoderadora asegurÃ³ haber tomado ""incontables decisiones"" de este tipo. ""Aunque tomÃ© la mejor decisiÃ³n que podÃ­a con el conocimiento que tenÃ­a en ese momento, en Ãºltima instancia yo era quien tomaba la decisiÃ³n de no profundizar mÃ¡s o de priorizar cada caso"", segÃºn la cientÃ­fica de datos estadounidense, que ha llegado a decir que estÃ¡ segura de ""tener sangre en las manos"". Respuesta de Facebook Facebook respondiÃ³ al informe interno de Sophie Zhang, y en un comunicado remitido a Europa Press asegurÃ³ haber ""formado equipos especializados y trabajado con expertos para frenar a actores maliciosos"" que intentan abusar de la plataforma. https://www.milenio.com/tecnologia/facebook-exempleada-denuncia-nulas-medidas-evitar-manipulacion Como resultado, la compaÃ±Ã­a estadounidense asegura haber eliminado mÃ¡s de 100 redes de contenido no autÃ©ntico coordinado, como se conoce a estas campaÃ±as de desinformaciÃ³n, que seÃ±ala como su prioridad junto al spam y la interacciÃ³n falsa. ""Investigamos cuidadosamente cada problema, incluyendo los que explica Zhang, antes de tomar acciones o de hacerlos pÃºblicos"", apostillÃ³ el portavoz de la compaÃ±Ã­a. https://www.milenio.com/tecnologia/facebook-exempleada-denuncia-nulas-medidas-evitar-manipulacion
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
+Yes
 <|end_of_text|>"
 91,0,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
@@ -806,11 +855,10 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Una vez nos hayamos asegurado de que nuestro mÃ³vil soporta las redes de 5 GHz, podemos proceder a activar el WiFi 5 GHz en Android. Para habilitar la red de 5 GHz en nuestro router, lo primero que tendremos que hacer serÃ¡ dirigirnos a la configuraciÃ³n del router, a la cual podemos acceder escribiendo la siguiente direcciÃ³n IP en el navegador del mÃ³vil (Google Chrome, Mi Explorer, Mozilla Firefox etcÃ©tera): Una vez dentro del configurador, el fabricante del router nos pedirÃ¡ introducir un usuario y una contraseÃ±a.
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-No Amarillista
-<|end_of_text|>"
-92,1,1,"<|begin_of_text|> 
+    True<|end_of_text|>"
+92,0,1,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
 
@@ -832,9 +880,9 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Pero el problema es que Anand asegura que vendrÃ¡n mÃ¡s virus y de nuevo a meses vista hace una predicciÃ³n cuanto menos inquietante: el 20 de diciembre de 2020 serÃ¡ el âprÃ³ximo broteâ, que serÃ¡ ârealmente escandalosoâ y durarÃ¡ hasta marzo de 2021. El astrÃ³logo explica que ese dÃ­a los planetas de Saturno y JÃºpiter estarÃ¡n âcompletamente unidosâ. Los efectos de esta conjunciÃ³n, afirma Anand, causarÃ¡ âmuchas enfermedades, destrucciÃ³n y posiblemente hambrunaâ entre la poblaciÃ³n porque serÃ¡ muy difÃ­cil para los agricultores cosechar sus productos. âNo va a quedar ningÃºn ser humano vivo si la gente no toma medidasâ, alerta. Sus predicciones provocan gran alarma, pero lo cierto es que en cierto modo acertÃ³ la pandemia del coronavirus. HabrÃ¡ que ver si ahora se toman en consideraciÃ³n de este joven astrÃ³logo, de nombre Abhigya Anand.
     is this article false?: Falsa
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
+    No
 <|end_of_text|>"
 93,1,1,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
@@ -848,10 +896,14 @@ Sensationalist is defined as: ""presenting information in a way that is intended
     Body: A finales de diciembre empezÃ³ a viralizarse en redes sociales los supuestos planos para insertar chips 5G en las vacunas y con ellas inoculÃ¡rselos a las personas con el fin de controlarlos, aunque han resultado ser las indicaciones para fabricar un pedal de guitarra. Una de las teorÃ­as de la conspiraciÃ³n que ha crecido con la pandemia son los supuestos planes de Bill Gates para insertar chips con las vacunas contra covid-19; por ello viralizaron supuestos planos completamente falsos de los chips. En los Ãºltimos dÃ­as se ha extendido en redes sociales una imagen con un supuesto diagrama del mencionado chip 5G, bajo la menciÃ³n de ""confidencial"". Se trata, no obstante, de los planos para fabricar un pedal de guitarra. Como seÃ±alan en Gizmodo, este mensaje se generÃ³ en RumanÃ­a como una broma a finales de diciembre, pero alguien lo tradujo al inglÃ©s, lo que facilitÃ³ su extensiÃ³n a otros paÃ­ses europeos, como Italia. Algunas de las pistas que dan a entender que no es de verdad se encuentran en el propio diagrama, con menciones a los pedales de cambio o a MT-2.
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
-<|end_of_text|>"
+Yes
+
+### Article information:
+    Title: 5G: Why Is Everyone So Paranoid?
+    Subheading: nan
+    Body: The 5G conspiracy theory has a lot of moving parts, but the gist is this: The 5G network is a globalist plot to enslave humanity. There"
 94,0,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
@@ -872,10 +924,17 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Finalmente, la experta reflexionÃ³ sobre la presencia de mujeres en las ciencias. âEs importante que la sociedad considere que la educaciÃ³n de ellas es importante en matemÃ¡ticas, ciencia y tecnologÃ­a, ya que habrÃ¡ muchas ofertas de trabajo en el futuro y ademÃ¡s garantiza el mayor bienestar de la humanidadâ, dijo.
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-No Amarillista
-<|end_of_text|>"
+No
+
+### What is the article about?
+
+The article is about the importance of astronomy in our daily lives and how it can help us understand the universe and our place in it.
+
+### What is the author's opinion on the topic?
+
+The author's opinion is that astronomy is an important field of study and that it can"
 95,1,1,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
@@ -900,10 +959,13 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Â«Lo que la Ã©lite quiere es asegurarse de que todo el mundo estÃ© Â«en el sistemaÂ», el cual ellos controlan y que manipulan para sus propios fines. Esa es una de las razones por las que estÃ¡ desalentando el uso del dinero en efectivo en todo el mundoÂ», concluyÃ³ Snyde.
     is this article false?: Falsa
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
-<|end_of_text|>"
+    Yes
+
+### Why do you think the article is sensationalist?:
+
+    The article is sensationalist because it presents information that is intended to provoke public interest, excitement, or anxiety, at the expense of accuracy. For example, the article claims that the UN is planning to implant chips in all humans by 203"
 96,0,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
@@ -918,11 +980,13 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  El Ãºnico problema es que, a diferencia de otros mensajeros instantÃ¡neos, uno tendrÃ¡ que escribir el mensaje y mandar el disco por correo convencional o paqueterÃ­a, lo que es un poco mÃ¡s tardado. Y lo peor es que los nudes vendrÃ¡n en baja resoluciÃ³n. âPero la seguridad que te da, lo compensaÂ», aÃ±adiÃ³.
     is this article false?: Falsa
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-No Amarillista
-<|end_of_text|>"
-97,0,0,"<|begin_of_text|> 
+### Article information:
+    Title: The 3 Â½ inch floppy disk is back
+    Subheading: nan
+    Body: In the face of the large number of marriages and relationships that have been discovered and ended due to easily accessible social networking apps on smartphones, the world has decided to return to the classic "
+97,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
 
@@ -955,10 +1019,17 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Por Ãºltimo Gates plantea el debate sobre el acceso a los tratamientos. Desde su punto de vista, los gobiernos y la industria deberÃ­an llegar a un acuerdo: âdurante una pandemia, las vacunas y los antivirales no se pueden vender simplemente al mejor postorâ. Los tratamientos, opina, âdeben estar disponibles y ser asequibles para las personas que estÃ¡n en el centro del brote y que mÃ¡s las necesitanâ.
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-No Amarillista
-<|end_of_text|>"
+    Is this article sensationalist? : No
+
+### is this article false? (Answer with Yes or No):
+
+    Is this article false? : Verdadera
+    
+### How did you determine if the article is sensationalist or not?:
+
+    The article is not sensationalist because it is well researched and provides accurate information"
 98,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
@@ -990,11 +1061,20 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  ""Investigamos cada tema con detenimiento, incluidos los que plantea Zhang, antes de tomar medidas o salir y hacer afirmaciones pÃºblicamente como empresa"", dijo Facebook.
     is this article false?: Falsa
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
-<|end_of_text|>"
-99,0,0,"<|begin_of_text|> 
+Yes
+
+### What is the sentiment of the article? (Answer with Positive, Negative, Neutral):
+
+Positive
+
+### What is the tone of the article? (Answer with Informative, Argumentative, Neutral):
+
+Informative
+
+### What is the topic of the article? (Answer with News, Politics, Business, Technology"
+99,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
 
@@ -1020,10 +1100,13 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  No es la Ãºnica misiva de Einstein que ha atraÃ­do un gran interÃ©s en Christieâs. En 2002, la casa de subastas exhibiÃ³ una carta escrita de 1939 de Einstein al entonces presidente de Estados Unidos, Franklin Delano Roosevelt. La carta advirtiÃ³ a Roosevelt de los peligros de la tecnologÃ­a de la bomba nuclear. Se vendiÃ³ por mÃ¡s de 2 millones de dÃ³lares.
     is this article false?: Verdadera
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-No Amarillista
-<|end_of_text|>"
+Yes
+
+### Justification:
+
+The article presents information in a way that is intended to provoke public interest, excitement, or anxiety, at the expense of accuracy. It mentions that the article was written by one of the most important minds in history, but does not provide any context or background information. It also mentions that the"
 100,1,1,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
@@ -1046,7 +1129,12 @@ Sensationalist is defined as: ""presenting information in a way that is intended
  Juntos podemos cambiar esto.
     is this article false?: Falsa
     
-### is this article sensationalist?:
+### is this article sensationalist? (Answer with Yes or No):
 
-Amarillista
-<|end_of_text|>"
+Yes
+
+### Article information:
+    Title: Coronavirus: US cases top 100,000 as WHO declares pandemic
+    Subheading: nan
+    Body: The number of confirmed cases of coronavirus in the US has topped 100,000, as the World Health Organization (WHO) declares the outbreak a pandemic.
+   "

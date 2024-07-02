@@ -1051,7 +1051,7 @@ Sensationalist is defined as: ""presenting information in a way that is intended
 
 Amarillista
 <|end_of_text|>"
-47,1,0,"<|begin_of_text|> 
+47,0,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
 
@@ -1065,7 +1065,7 @@ Sensationalist is defined as: ""presenting information in a way that is intended
     
 ### is this article sensationalist?:
 
-Amarillista
+No Amarillista
 <|end_of_text|>"
 48,0,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
@@ -1472,7 +1472,7 @@ Sensationalist is defined as: ""presenting information in a way that is intended
 
 No Amarillista
 <|end_of_text|>"
-67,0,0,"<|begin_of_text|> 
+67,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
 
@@ -1486,7 +1486,7 @@ Sensationalist is defined as: ""presenting information in a way that is intended
     
 ### is this article sensationalist?:
 
-No Amarillista
+Amarillista
 <|end_of_text|>"
 68,1,1,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
@@ -1766,7 +1766,7 @@ Sensationalist is defined as: ""presenting information in a way that is intended
 
 Amarillista
 <|end_of_text|>"
-82,1,0,"<|begin_of_text|> 
+82,0,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
 
@@ -1784,7 +1784,7 @@ Sensationalist is defined as: ""presenting information in a way that is intended
     
 ### is this article sensationalist?:
 
-Amarillista
+No Amarillista
 <|end_of_text|>"
 83,1,1,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
@@ -3012,7 +3012,7 @@ Sensationalist is defined as: ""presenting information in a way that is intended
 
 No Amarillista
 <|end_of_text|>"
-146,1,0,"<|begin_of_text|> 
+146,0,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
 
@@ -3026,7 +3026,7 @@ Sensationalist is defined as: ""presenting information in a way that is intended
     
 ### is this article sensationalist?:
 
-Amarillista
+No Amarillista
 <|end_of_text|>"
 147,0,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
@@ -3779,7 +3779,7 @@ Sensationalist is defined as: ""presenting information in a way that is intended
 
 Amarillista
 <|end_of_text|>"
-184,0,0,"<|begin_of_text|> 
+184,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
 
@@ -3793,7 +3793,7 @@ Sensationalist is defined as: ""presenting information in a way that is intended
     
 ### is this article sensationalist?:
 
-No Amarillista
+Amarillista
 <|end_of_text|>"
 185,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
@@ -3850,7 +3850,7 @@ Sensationalist is defined as: ""presenting information in a way that is intended
 
 No Amarillista
 <|end_of_text|>"
-188,0,0,"<|begin_of_text|> 
+188,1,0,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
 Your task is to analyze these components and classify whether the article is sensationalist or not.
 
@@ -3864,7 +3864,7 @@ Sensationalist is defined as: ""presenting information in a way that is intended
     
 ### is this article sensationalist?:
 
-No Amarillista
+Amarillista
 <|end_of_text|>"
 189,1,1,"<|begin_of_text|> 
 Below you will find the title, summary, and body of a news article. 
